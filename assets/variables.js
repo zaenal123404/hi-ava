@@ -1,5 +1,5 @@
 export default {
-  nicknames: ["Ava", "Babe", "Sayang", "Avakuu", "Cintuu"],
+  nicknames: ["Ummul Auliyah Syam", "Ummul", "Ummul.", "Ummul", "Ummul Auliyah Syam"],
   greetings: {
     evening: "Good Evening",
     afternoon: "Good Afternoon",
